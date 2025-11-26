@@ -1,4 +1,3 @@
-````markdown
 # 🌐 04_API_Documentation — Flask API Guide
 Movie Recommendation System Project
 
@@ -59,13 +58,19 @@ http://127.0.0.1:5000/recommend?user_id=1&n=10
 
 ```json
 {
-  "user_id": 1,
   "recommendations": [
+    "Usual Suspects, The (1995)",
     "Star Wars (1977)",
     "Pulp Fiction (1994)",
-    "Contact (1997)",
-    "Men in Black (1997)"
-  ]
+    "Fargo (1996)",
+    "Godfather, The (1972)",
+    "Wrong Trousers, The (1993)",
+    "Raiders of the Lost Ark (1981)",
+    "Close Shave, A (1995)",
+    "Casablanca (1942)",
+    "Third Man, The (1949)"
+  ],
+  "user_id": 1
 }
 ```
 
@@ -116,6 +121,5 @@ The Flask API:
 * Returns results in clean JSON format
 * Can be extended into a full frontend application
 
----
 
 
