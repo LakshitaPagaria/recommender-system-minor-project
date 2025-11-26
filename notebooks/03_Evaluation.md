@@ -1,4 +1,3 @@
-```markdown
 # 📊 03_Evaluation — Model Evaluation & Metrics
 Movie Recommendation System Project
 
@@ -77,7 +76,5 @@ Works well for:
 - Tune SVD parameters  
 - Explore hybrid scoring  
 - Use improved sampling techniques  
-```
 
----
 
