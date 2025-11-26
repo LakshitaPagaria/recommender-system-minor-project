@@ -1,0 +1,21 @@
+# Python venv
+venv/
+venv311/
+.env/
+.venv/
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# Model files
+models/*.pkl
+
+# Cache / build files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
