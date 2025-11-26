@@ -1,4 +1,3 @@
-```markdown
 # 🧠 02_Model_Training — Model Development & Training
 Movie Recommendation System Project
 
